@@ -3,4 +3,4 @@
 </p>
 | Left | Right |
 |------|-------|
-| <img src="assets/left.png" width="300"> | <img src="assets/right.png" width="300"> |
+| <img src="Screenshot 2026-08-06 214256.png" width="300"> | <img src="assets/right.png" width="300"> |
