@@ -1,5 +1,6 @@
 <p align="center">
   <img src="Screenshot_2026-08-06_220256-removebg-preview.png" alt="Banner" width="800">
 </p>
-</p><p align="center">
-  <img src="Screenshot 2026-08-06 214256.png" alt="Banner" width="100%">
+| Left | Right |
+|------|-------|
+| <img src="assets/left.png" width="300"> | <img src="assets/right.png" width="300"> |
