@@ -7,6 +7,6 @@
 <p align="right">  
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=17&duration=4998&pause=1000&color=D65A3C&width=435&lines=you+were+the+light+that+the+fire+would+bring" alt="Typing SVG" /></a>
 
- > This text will have a nice vertical accent border on its left side.
+ > --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<
       
 this is a wip!!!
