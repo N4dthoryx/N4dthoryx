@@ -10,7 +10,7 @@
 ---
 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/atabook-purple?style=for-the-badge&color=%237d333d"><https://n4dthoryxhihi.atabook.org/.>
+<img alt="Static Badge" src="https://img.shields.io/badge/atabook-purple?style=for-the-badge&color=%237d333d"<https://n4dthoryxhihi.atabook.org/.>
 
 
 
