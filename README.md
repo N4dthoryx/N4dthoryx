@@ -9,6 +9,7 @@
 <kbd>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=100&size=18&pause=1000&color=9C3737F5&background=C19F9F25&width=435&lines=i+know+my+love+is+different+from+yours;But+its+love+too" alt="Typing SVG" /></a>
+<p align="right">
 
 
 
