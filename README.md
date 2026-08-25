@@ -7,7 +7,14 @@
 <p align="right">  
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=17&duration=4998&pause=1000&color=D65A3C&width=435&lines=you+were+the+light+that+the+fire+would+bring" alt="Typing SVG" /></a>
 <kbd>
-  This text is completely enclosed in a border.
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=100&size=22&pause=1000&color=9C3737F5&background=C19F9F25&width=435&lines=i+know+my+love+is+different+from+yours;But+its+love+too" alt="Typing SVG" /></a>
+
+
+
+
+
+
 </kbd>
  
       
