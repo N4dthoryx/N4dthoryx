@@ -14,8 +14,7 @@
 
 ---
 <p align="center">
-Screenshot_2026-08-26_225134-removebg-preview.png
-<img src="Screenshot_2026-08-26_225134-removebg-preview.png" width="600">
+<img src="Screenshot_2026-08-26_225134-removebg-preview.png" width="800">
   
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/INT%20%3A%20any%20-%20ok%3F?style=flat-square&color=%20%234947c4">
