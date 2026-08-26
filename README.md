@@ -22,6 +22,6 @@ __boundary breakers__, __homophobes__, __transphobes__, __racists__, __sexists__
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=PT+Serif&size=15&pause=1000&color=851616&background=C9898920&center=true&vCenter=true&width=440&lines=I+know+my+love+is+different+from+yours;But+it's+love+too" alt="Typing SVG" /></a>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=100&size=18&pause=1010&color=9C4230F5&background=C19F9F25&width=435&lines=who+could+really+blame+me%3F;if+you+seen+the+look+on+his+face%2C+;+you+wouldn't+be+able+to+judge+me+either" alt="Typing SVG" /></a>
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=PT+Serif&size=15&pause=1000&color=851616&background=C9898920&center=true&vCenter=true&width=440&lines=who+could+really+blame+me)](https://git.io/typing-svg)
 
 </kbd>
