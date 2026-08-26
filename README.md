@@ -15,10 +15,7 @@
 ---
 
 
-<p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/DNI-%238b3299?style=for-the-badge&color=%238b3299">
-    
-__boundary breakers, homophobes__, __transphobes__, __racists__, __sexists__, __pedophiles__, __bigots__, __proshippers__, __zoophiles__, __nazis__, __fascists__, __trump supporters__, __people that are in the wrong in general,__ __...ect__
+
 
     
 ---
@@ -27,6 +24,12 @@ __boundary breakers, homophobes__, __transphobes__, __racists__, __sexists__, __
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=PT+Serif&size=15&pause=1000&color=851616&background=C9898920&center=true&vCenter=true&width=440&lines=I+know+my+love+is+different+from+yours;But+it's+love+too" alt="Typing SVG" /></a>
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=PT+Serif&size=15&pause=1000&color=851616&background=C9898920&center=true&vCenter=true&width=440&lines=who+could+really+blame+me%3F;if+you've+seen+the+look+on+his+face%2C+you+would+have+understand" alt="Typing SVG" /></a>
- </kbd>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=PT+Serif&size=15&pause=1000&color=851616&background=C9898920&center=true&vCenter=true&width=440&lines=who+could+really+blame+me%3F;if+you've+seen+the+look+on+his+face%2C+you+would+have+understand" alt="Typing SVG" 
+/></a>
+
+---
  
+<p align="center">
+<img alt="Static Badge" src="https://img.shields.io/badge/DNI-%238b3299?style=for-the-badge&color=%238b3299">
+    
+__boundary breakers, homophobes__, __transphobes__, __racists__, __sexists__, __pedophiles__, __bigots__, __proshippers__, __zoophiles__, __nazis__, __fascists__, __trump supporters__, __people that are in the wrong in general,__ __...ect__
