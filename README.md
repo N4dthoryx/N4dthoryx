@@ -10,7 +10,7 @@
 
 ---
 
-# DNI:
+#                                         DNI                                           :
 __boundary breakers__, __homophobic__, __transphobic__, __trump supporters__
 
 
