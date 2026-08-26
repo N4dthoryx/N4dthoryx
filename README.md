@@ -16,9 +16,14 @@
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/INT%20%3A%20any%20-%20ok%3F?style=flat-square&color=%20%234947c4">
 
+<p align="center">
+<img alt="Static Badge" src="https://img.shields.io/badge/MY%20FANDOMS-%20ok%3F?style=flat-square&color=%20%234947c4">
 
-
-    
+__MCYT__: __unstable smp, lifesteal smp, qsmp, bliss smp, wisp smp, strength smp, flight smp, money smp, abyss smp, unserious smp, whitepine, tsftl, tsftlt, sfawtde/dawtde, Ish state, Decayed & decrepit, A ReGect, Verity, Project Jaide, Not quite human, hrzn, altar smp__
+---
+__ROBLOX__ _(used to be in)_ : __phighting, fskn, TRUD, block tales, bad things, a happy world with happy people, IHasAFaceLULZ, RecallAHollowHeart, Itzskeet_playz__
+---
+__Others__: limbus company, pjsk/vocaloid, alnst, etc .(i can't list all of them)__
 ---
 <p align="center">
 <img src="HI5MG32bYAAGU_h-removebg-preview.png" width="600">
