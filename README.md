@@ -10,8 +10,8 @@
 
 ---
 <p align="center"
-#DNI:
- boundary breakers, homophobic, transphobic, trump supporters 
+# DNI:
+    boundary breakers, homophobic, transphobic, trump supporters 
 
 
 ---
