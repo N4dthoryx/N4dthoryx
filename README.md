@@ -25,7 +25,7 @@ __ROBLOX__ __(used to be in)__ : __phighting, fskn, TRUD, block tales, bad thing
 
 __Others__: __limbus company, pjsk/vocaloid, alnst, etc .(i can't list all of them)__
 
-CONSIDER TALKING TO ME IF YOU LIKE ANY OF THESE! THANK YOU.
+                  CONSIDER TALKING TO ME IF YOU LIKE ANY OF THESE! THANK YOU.
 ---
 
 <p align="center">
