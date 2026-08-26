@@ -14,7 +14,7 @@
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/DNI-%238b3299?style=for-the-badge&color=%238b3299">
     
-__boundary breakers, homophobes__, __transphobes__, __racists__, __sexists__, __pedophiles__, __bigots__, __proshippers__, __zoophiles__, __nazis__, __fascists__, __trump supporters__,__people that are in the wrong in general,__ __...ect__
+__boundary breakers, homophobes__, __transphobes__, __racists__, __sexists__, __pedophiles__, __bigots__, __proshippers__, __zoophiles__, __nazis__, __fascists__, __trump supporters__, __people that are in the wrong in general,__ __...ect__
 
     
 ---
