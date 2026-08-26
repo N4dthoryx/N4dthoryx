@@ -13,7 +13,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/DNI-%238b3299?style=for-the-badge&color=%238b3299">
 
 
-__boundary breakers__, __homophobes__, __transphobes__, __racists__, __sexists__, __pedophiles__, __bigots__, __proshippers__, __zoophiles__, __nazis__, __fascists__, __trump supporters__,__people that are in the wrong in general___,
+__boundary breakers__, __homophobes__, __transphobes__, __racists__, __sexists__, __pedophiles__, __bigots__, __proshippers__, __zoophiles__, __nazis__, __fascists__, __trump supporters__,__people that are in the wrong in general, .etc__
 
 
 ---
@@ -25,4 +25,3 @@ __boundary breakers__, __homophobes__, __transphobes__, __racists__, __sexists__
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=100&size=18&pause=1010&color=9C4230F5&background=C19F9F25&width=435&lines=who+could+really+blame+me%3F;if+you+seen+the+look+on+his+face%2C+;+you+wouldn't+be+able+to+judge+me+either" alt="Typing SVG" /></a>
 
 </kbd>
-wip readme
