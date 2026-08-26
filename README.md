@@ -11,7 +11,7 @@
 ---
 
 # DNI:
-boundary breakers, homophobic, transphobic, trump supporters 
+__boundary breakers__, __homophobic__, __transphobic__, __trump supporters__
 
 
 ---
