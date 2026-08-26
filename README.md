@@ -9,7 +9,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=17&duration=4998&pause=1000&color=D65A3C&width=435&lines=you+were+the+light+that+the+fire+would+bring" alt="Typing SVG" /></a>
 
 ---
-<img alt="Static Badge" src="https://img.shields.io/badge/DNI-%238b3299?style=flat-square&color=%238b3299">
+<p align="center">
+<img alt="Static Badge" src="https://img.shields.io/badge/DNI-%238b3299?style=for-the-badge&color=%238b3299">
+
 
 __boundary breakers__, __homophobic__, __transphobic__, __trump supporters__
 
