@@ -26,7 +26,9 @@ __ROBLOX__ __(used to be in)__ : __phighting, fskn, TRUD, block tales, bad thing
 
 __Others__: __limbus company, pjsk/vocaloid, alnst, etc .(i can't list all of them)__
 
-                                  CONSIDER TALKING TO ME IF YOU LIKE ANY OF THESE! THANK YOU.
+<p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/consider%20talking%20to%20me%20if%20you%20like%20any%20of%20theses!%20thank%20you-%20kk?style=for-the-badge&color=%23967a56">
+
 ---
 
 <p align="center">
