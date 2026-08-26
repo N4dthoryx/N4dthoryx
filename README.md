@@ -1,4 +1,5 @@
 wip readme
+__N4dthoryx `16 `vn `c+h enc` w2iuf/p_
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/(%CB%B5%3E%20%E2%A9%8A%20%3C%CB%B5)-%E2%82%8A%20%E2%8A%B9?style=plastic&label=%E2%8B%85%E2%82%8A%20%F0%90%99%9A%20%E2%80%A7&labelColor=%238a2da6&color=%23313dba">
 <p align="left">
@@ -13,7 +14,7 @@ wip readme
 <img alt="Static Badge" src="https://img.shields.io/badge/DNI-%238b3299?style=for-the-badge&color=%238b3299">
 
 
-__boundary breakers__, __homophobes__, __transphobes__, __racists__, __sexists__, __pedophiles__, __bigots__, __proshippers__, __zoophiles__, __nazis__, __fascists__, __trump supporters__, __people that are in the wrong in general,..__ <p align="center">
+__boundary breakers__, __homophobes__, __transphobes__, __racists__, __sexists__, __pedophiles__, __bigots__, __proshippers__, __zoophiles__, __nazis__, __fascists__, __trump supporters__,__people that are in the wrong in general___,
 
 
 ---
