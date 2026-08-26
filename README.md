@@ -13,9 +13,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=17&duration=4998&pause=1000&color=D65A3C&width=435&lines=you+were+the+light+that+the+fire+would+bring" alt="Typing SVG" /></a>
 
 ---
-<p align="center">
-<img src="Screenshot_2026-08-26_225134-removebg-preview.png" width="800">
-  
+
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/INT%20%3A%20any%20-%20ok%3F?style=flat-square&color=%20%234947c4">
 
