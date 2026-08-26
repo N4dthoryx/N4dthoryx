@@ -14,6 +14,7 @@
 
 ---
 
+<img alt="Static Badge" src="https://img.shields.io/badge/INT%20%3A%20any%20-%20ok%3F?style=flat-square&color=%20%234947c4">
 
 
 
