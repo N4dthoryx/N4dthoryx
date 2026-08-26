@@ -47,3 +47,7 @@ __Others__: __limbus company, pjsk/vocaloid, alnst, etc .(i can't list all of th
 __boundary breakers, homophobes__, __transphobes__, __racists__, __sexists__, __pedophiles__, __bigots__, __proshippers__, __zoophiles__, __nazis__, __fascists__, __trump supporters__, __people that are in the wrong in general,__ __...ect__
 
 ---
+
+
+
+---
