@@ -53,5 +53,4 @@ __boundary breakers, homophobes__, __transphobes__, __racists__, __sexists__, __
 ---
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=500&size=22&pause=1000&color=A42055&width=435&height=65&lines=Don't+cry%2C+my+precious+person+;Ah%2C+reproachful%2C+worthy+saints+" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=500&size=22&pause=1000&color=A42055&width=435&height=65&lines=Don't+abandon+hope%2C+my+precious+person;Ah%2C+courageous%2C+swaying+spirit+" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=500&size=22&pause=1000&color=210711&width=435&height=65&lines=Don't+abandon+hope%2C+my+precious+person;Ah%2C+courageous%2C+swaying+spirit+" alt="Typing SVG" /></a>
