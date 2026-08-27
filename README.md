@@ -32,8 +32,7 @@ __Others__: __limbus company, pjsk/vocaloid, alnst, etc .(i can't list all of th
 ---
 
 <p align="center">
-<img src="HI5MG32bYAAGU_h-removebg-preview.png" width="600"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1000&color=872728&width=435&lines=Don't+leave" alt="Typing SVG" /></a>
-
+<img src="HI5MG32bYAAGU_h-removebg-preview.png" width="600"><a href="https://git.io/typing-svg">
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=PT+Serif&size=15&pause=1000&color=851616&background=C9898920&center=true&vCenter=true&width=440&lines=I+know+my+love+is+different+from+yours;But+it's+love+too" alt="Typing SVG" /></a>
 <p align="center">
