@@ -1,6 +1,10 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314jju74pnp5ipodukx2uipciahq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=34413d&interchange=true&profanity=false&hide_remaster=false&bar_color=5c3abb&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=314jju74pnp5ipodukx2uipciahq&redirect=true)
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=314jju74pnp5ipodukx2uipciahq&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314jju74pnp5ipodukx2uipciahq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=34413d&interchange=true&profanity=false&hide_remaster=false&bar_color=5c3abb&bar_color_cover=false&mode=dark">
+  </a>
+</p>
+---
 
- ---
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/(%CB%B5%3E%20%E2%A9%8A%20%3C%CB%B5)-%E2%82%8A%20%E2%8A%B9?style=plastic&label=%E2%8B%85%E2%82%8A%20%F0%90%99%9A%20%E2%80%A7&labelColor=%238a2da6&color=%23313dba" >
 <p align="left">
