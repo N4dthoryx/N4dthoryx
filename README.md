@@ -58,4 +58,4 @@ __boundary breakers, homophobes__, __transphobes__, __racists__, __sexists__, __
   <img src="HIwOVjaa0AAkcao-removebg-preview (1).png" width="650">
   
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=500&size=22&pause=1000&color=210711&width=435&height=65&lines=Don't+abandon+hope%2C+my+precious+person;Ah%2C+courageous%2C+swaying+spirit+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=500&size=22&pause=1000&color=A11745&width=435&height=65&lines=Don't+abandon+hope%2C+my+precious+person;Ah%2C+courageous%2C+swaying+spirit+" alt="Typing SVG" /></a>
