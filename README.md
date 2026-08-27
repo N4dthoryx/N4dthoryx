@@ -59,3 +59,16 @@ __boundary breakers, homophobes__, __transphobes__, __racists__, __sexists__, __
   
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=500&size=22&pause=1000&color=A11745&center=true&vCenter=true&width=435&height=65&lines=Don't+abandon+hope%2C+my+precious+person;Ah%2C+courageous%2C+swaying+spirit+" alt="Typing SVG" /></a>
+
+---
+
+__art creds__:
+
+__@amimizzz__
+
+__@pualtmu__
+
+__1_izumii__
+
+__all are on X__
+
