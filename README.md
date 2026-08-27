@@ -63,12 +63,8 @@ __boundary breakers, homophobes__, __transphobes__, __racists__, __sexists__, __
 ---
 
 __art creds__:
-
 __@amimizzz__
-
 __@pualtmu__
-
 __@1_izumii__
-
-__all are on X__
+__all are on X btw__
 
