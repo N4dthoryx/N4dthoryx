@@ -51,4 +51,7 @@ __Others__: __limbus company, pjsk/vocaloid, alnst, hoyoverse, etc .(i can't lis
 __boundary breakers, homophobes__, __transphobes__, __racists__, __sexists__, __pedophiles__, __bigots__, __proshippers__, __zoophiles__, __nazis__, __fascists__, __trump supporters__, __people that are in the wrong in general,__ __...ect__
 
 ---
-i think this looks better on pc. idfk
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=500&size=22&pause=1000&color=A42055&width=435&height=65&lines=Don't+cry%2C+my+precious+person+;Ah%2C+reproachful%2C+worthy+saints+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=500&size=22&pause=1000&color=A42055&width=435&height=65&lines=Don't+abandon+hope%2C+my+precious+person;Ah%2C+courageous%2C+swaying+spirit+" alt="Typing SVG" /></a>
+
