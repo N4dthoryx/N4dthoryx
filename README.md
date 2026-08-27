@@ -3,6 +3,7 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314jju74pnp5ipodukx2uipciahq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=34413d&interchange=true&profanity=false&hide_remaster=false&bar_color=5c3abb&bar_color_cover=false&mode=dark">
   </a>
 </p>
+
 ---
 
 <p align="center">
