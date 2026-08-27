@@ -26,9 +26,9 @@
 
 __MCYT__: __unstable smp, lifesteal smp, qsmp, bliss smp, wisp smp, strength smp, flight smp, money smp, abyss smp, unserious smp, whitepine, tsftl, tsftlt, sfawtde/dawtde, Ish state, Decayed & decrepit, A ReGect, Verity, Project Jaide, Not quite human, hrzn, altar smp__
 
-__ROBLOX__ __(used to be in)__ : __phighting, fskn, bite by night, DoD, animal hospital, TRUD, block tales, bad things, a happy world with happy people, IHasAFaceLULZ, RecallAHollowHeart, Itzskeet_playz__
+__ROBLOX__  : __phighting, fskn, bite by night, DoD, animal hospital, TRUD, block tales, pressure, bad things, a happy world with happy people, IHasAFaceLULZ, RecallAHollowHeart, Itzskeet_playz__
 
-__Others__: __limbus company, pjsk/vocaloid, alnst, etc .(i can't list all of them)__
+__Others__: __limbus company, pjsk/vocaloid, alnst, hoyoverse, etc .(i can't list all of them)__
 
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/consider%20talking%20to%20me%20if%20you%20like%20any%20of%20theses!%20thank%20you-%20kk?style=for-the-badge&color=%23967a56">
