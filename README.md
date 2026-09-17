@@ -15,7 +15,7 @@
   
   </p>
 <p align="center">
-  <img src="HRuD0AqbQAAqMMJ-removebg-preview.png" width="500">
+  <img src="HRuD0AqbQAAqMMJ-removebg-preview.png" width="600">
 </p>
 
 ---
