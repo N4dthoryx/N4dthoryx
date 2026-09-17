@@ -4,7 +4,6 @@
   </a>  
 
 <p align="center">
-  N4dthoryx . 16 . 🇻🇳 . c+h / int hvy enc
   
 
 <p align="center">  
