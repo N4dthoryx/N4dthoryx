@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/s.ata%20-%20?style=for-the-badge&labelColor=%23ad3e4b&color=%239c4c56" alt=https://n4dthoryxhihi.atabook.org/>
+<img alt="Static Badge" src="https://img.shields.io/badge/s.ata%20-%20?style=for-the-badge&labelColor=%23ad3e4b&color=%239c4c56" href=https://n4dthoryxhihi.atabook.org/>
 </p>
 <p align="center">
   <img src="HHv2bsxWsAY0iT6-removebg-preview (1).png" width="500">
