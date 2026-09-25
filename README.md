@@ -4,9 +4,13 @@
   </a> 
 
 ${\textsf{\color{#82322c} hii call me ryx or thory}}$  
+
 ${\textsf{\color{#8f763b} hvy thomas5200 kin}}$
+
 ${\textsf{\color{#82322c} c+h is hvy enc}}$ 
+
 ${\textsf{\color{#8f763b}} iwec/dniud if -14}}$ 
+
 ${\textsf{\color{#82322c} dni boundary breakers}}$
   
 
