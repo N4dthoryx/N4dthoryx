@@ -3,7 +3,8 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314jju74pnp5ipodukx2uipciahq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
   </a> 
 <p align="center">
-${\textsf{\color{#82322c} hii call me ryx or thory}}$ ${\textsf{\color{#8f763b} hvy thomas5200 kin}}$
+${\textsf{\color{#baac8c} Hii call me ryx or thory}}$  ${\textsf{\color{#baac8c} Thomas5200 kin}}$
+
   
 
 
@@ -22,5 +23,10 @@ ${\textsf{\color{#82322c} hii call me ryx or thory}}$ ${\textsf{\color{#8f763b} 
 </p>
 <p align="center">
   <img src="HHv2bsxWsAY0iT6-removebg-preview (1).png" width="500">
-</p>
+</p> 
+
+
+<p align="center">
+${\textsf{\color{#967f5a} A meaningless death . }$  
+      
 
