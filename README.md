@@ -3,20 +3,9 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314jju74pnp5ipodukx2uipciahq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
   </a> 
 <p align="center">
-${\textsf{\color{#82322c} hii call me ryx or thory}}$
+${\textsf{\color{#82322c} hii call me ryx or thory}}$ ${\textsf{\color{#8f763b} hvy thomas5200 kin}}$
   
-<p align="center">
-${\textsf{\color{#8f763b} hvy thomas5200 kin}}$
-  
-<p align="center">
-${\textsf{\color{#82322c} c+h is hvy enc}}$ 
 
-<p align="center">
-${\textsf{\color{#8f763b} iwec/dniud if -14}}$ 
-
-<p align="center">
-${\textsf{\color{#82322c} dni boundary breakers}}$
-  
 
 <p align="center">
   
