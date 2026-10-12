@@ -19,4 +19,4 @@ ${\textsf{\color{#715b4e} As long as the city landscape is there,}}$ ${\textsf{\
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=15&duration=4000&pause=800&color=685C46&center=true&vCenter=true&width=435&lines=He'll+be+fine+without+me..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Andada+Pro&size=14&duration=4000&pause=800&color=685C46&center=true&vCenter=true&width=435&lines=He'll+be+fine+without+me..." alt="Typing SVG" /></a>
