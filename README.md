@@ -1,11 +1,12 @@
 <p align="center">
 ${\textsf{\color{#715b4e} As long as the city landscape is there,}}$ ${\textsf{\color{#7c5840} I'm always gonna have a reminder of you.}}$ 
 
- <a href="https://n4dthoryxhihi.atabook.org/"><img alt="Static Badge" src="https://img.shields.io/badge/Atabook-%20g?style=for-the-badge&color=%23914e31">
+ <a href="https://n4dthoryxhihi.atabook.org/"><img alt="Static Badge" src="https://img.shields.io/badge/Atabook-%20g?style=flat-square&color=%23914e31">
+
 
 
 <p align="center">
-  <img src="Your_paragraph_text-removebg-preview (2).png">
+  <img src="Your_paragraph_text-removebg-preview (2).png" with: 500 height: 500>
 </p>
 
 <p align="center">
