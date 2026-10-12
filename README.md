@@ -15,7 +15,7 @@ ${\textsf{\color{#715b4e} As long as the city landscape is there,}}$ ${\textsf{\
 
 
 <p align="center">
-  <img width="500" height="500" src="Your_paragraph_text-removebg-preview (2).png">
+  <img width="650" height="650" src="Your_paragraph_text-removebg-preview (2).png">
 </p>
 
 <p align="center">
