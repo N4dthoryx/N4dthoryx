@@ -6,7 +6,7 @@
 
 
 <p align="center">
-${\textsf{\color{#715b4e} As long as the city landscape is there,}}$ ${\textsf{\color{#7c5840} I'm always gonna have a reminder of you.}}$ 
+${\textsf{\color{#715b4e} 𝒜𝓈 𝓁𝑜𝓃𝑔 𝒶𝓈 𝓉𝒽𝑒 𝒸𝒾𝓉𝓎 𝓁𝒶𝓃𝒹𝓈𝒸𝒶𝓅𝑒 𝒾𝓈 𝓉𝒽𝑒𝓇𝑒,}}$ ${\textsf{\color{#7c5840} 𝐼'𝓂 𝒶𝓁𝓌𝒶𝓎𝓈 𝑔𝑜𝓃𝓃𝒶 𝒽𝒶𝓋𝑒 𝒶 𝓇𝑒𝓂𝒾𝓃𝒹𝑒𝓇 𝑜𝒻 𝓎𝑜𝓊.}}$ 
 
 
 <p align="center">
