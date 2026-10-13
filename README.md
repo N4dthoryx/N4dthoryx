@@ -6,7 +6,7 @@
 
 
 <p align="center">
-${\textsf{\color{#715b4e} 𝔸𝕤 𝕝𝕠𝕟𝕘 𝕒𝕤 𝕥𝕙𝕖 𝕔𝕚𝕥𝕪 𝕝𝕒𝕟𝕕𝕤𝕔𝕒𝕡𝕖 𝕚𝕤 𝕥𝕙𝕖𝕣𝕖,}}$ ${\textsf{\color{#7c5840} 𝕀'𝕞 𝕒𝕝𝕨𝕒𝕪𝕤 𝕘𝕠𝕟𝕟𝕒 𝕙𝕒𝕧𝕖 𝕒 𝕣𝕖𝕞𝕚𝕟𝕕𝕖𝕣 𝕠𝕗 𝕪𝕠𝕦.}}$ 
+${\textsf{\color{#715b4e} ᴀꜱ ʟᴏɴɢ ᴀꜱ ᴛʜᴇ ᴄɪᴛʏ ʟᴀɴᴅꜱᴄᴀᴘᴇ ɪꜱ ᴛʜᴇʀᴇ,}}$ ${\textsf{\color{#7c5840} ɪ'ᴍ ᴀʟᴡᴀʏꜱ ɢᴏɴɴᴀ ʜᴀᴠᴇ ᴀ ʀᴇᴍɪɴᴅᴇʀ ᴏꜰ ʏᴏᴜ.}}$ 
 
 
 <p align="center">
@@ -19,4 +19,4 @@ ${\textsf{\color{#715b4e} 𝔸𝕤 𝕝𝕠𝕟𝕘 𝕒𝕤 𝕥𝕙𝕖 𝕔�
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=766B48&center=true&vCenter=true&width=435&lines=%E2%84%8D%F0%9D%95%96'%F0%9D%95%9D%F0%9D%95%9D+%F0%9D%95%93%F0%9D%95%96+%F0%9D%95%97%F0%9D%95%9A%F0%9D%95%9F%F0%9D%95%96+%F0%9D%95%A8%F0%9D%95%9A%F0%9D%95%A5%F0%9D%95%99%F0%9D%95%A0%F0%9D%95%A6%F0%9D%95%A5+%F0%9D%95%9E%F0%9D%95%96..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=950&color=6D6051&center=true&vCenter=true&width=435&lines=%CA%9C%E1%B4%87'%CA%9F%CA%9F+%CA%99%E1%B4%87+%EA%9C%B0%C9%AA%C9%B4%E1%B4%87+%E1%B4%A1%C9%AA%E1%B4%9B%CA%9C%E1%B4%8F%E1%B4%9C%E1%B4%9B+%E1%B4%8D%E1%B4%87" alt="Typing SVG" /></a>
