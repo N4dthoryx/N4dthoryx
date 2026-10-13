@@ -19,4 +19,4 @@ ${\textsf{\color{#715b4e} ᴀꜱ ʟᴏɴɢ ᴀꜱ ᴛʜᴇ ᴄɪᴛʏ ʟᴀɴᴅ
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=950&color=6D6051&center=true&vCenter=true&width=435&lines=%CA%9C%E1%B4%87'%CA%9F%CA%9F+%CA%99%E1%B4%87+%EA%9C%B0%C9%AA%C9%B4%E1%B4%87+%E1%B4%A1%C9%AA%E1%B4%9B%CA%9C%E1%B4%8F%E1%B4%9C%E1%B4%9B+%E1%B4%8D%E1%B4%87" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=950&color=6D6051&center=true&vCenter=true&width=435&lines=%CA%9C%E1%B4%87'%CA%9F%CA%9F+%CA%99%E1%B4%87+%EA%9C%B0%C9%AA%C9%B4%E1%B4%87+%E1%B4%A1%C9%AA%E1%B4%9B%CA%9C%E1%B4%8F%E1%B4%9C%E1%B4%9B+%E1%B4%8D%E1%B4%87" alt="Typing SVG" /></a>
