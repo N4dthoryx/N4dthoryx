@@ -6,7 +6,7 @@
 
 
 <p align="center">
-${\textsf{\color{#715b4e} 𝒜𝓈 𝓁𝑜𝓃𝑔 𝒶𝓈 𝓉𝒽𝑒 𝒸𝒾𝓉𝓎 𝓁𝒶𝓃𝒹𝓈𝒸𝒶𝓅𝑒 𝒾𝓈 𝓉𝒽𝑒𝓇𝑒,}}$ ${\textsf{\color{#7c5840} 𝐼'𝓂 𝒶𝓁𝓌𝒶𝓎𝓈 𝑔𝑜𝓃𝓃𝒶 𝒽𝒶𝓋𝑒 𝒶 𝓇𝑒𝓂𝒾𝓃𝒹𝑒𝓇 𝑜𝒻 𝓎𝑜𝓊.}}$ 
+${\textsf{\color{#715b4e} 𝕒𝕤 𝕝𝕠𝕟𝕘 𝕒𝕤 𝕥𝕙𝕖 𝕔𝕚𝕥𝕪 𝕝𝕒𝕟𝕕𝕤𝕔𝕒𝕡𝕖 𝕚𝕤 𝕥𝕙𝕖𝕣𝕖,}}$ ${\textsf{\color{#7c5840} 𝕀'𝕞 𝕒𝕝𝕨𝕒𝕪𝕤 𝕘𝕠𝕟𝕟𝕒 𝕙𝕒𝕧𝕖 𝕒 𝕣𝕖𝕞𝕚𝕟𝕕𝕖𝕣 𝕠𝕗 𝕪𝕠𝕦.}}$ 
 
 
 <p align="center">
@@ -19,4 +19,4 @@ ${\textsf{\color{#715b4e} 𝒜𝓈 𝓁𝑜𝓃𝑔 𝒶𝓈 𝓉𝒽𝑒 𝒸�
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Andada+Pro&size=14&duration=4000&pause=800&color=685C46&center=true&vCenter=true&width=435&lines=He'll+be+fine+without+me..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=766B48&width=435&lines=%E2%84%8D%F0%9D%95%96'%F0%9D%95%9D%F0%9D%95%9D+%F0%9D%95%93%F0%9D%95%96+%F0%9D%95%97%F0%9D%95%9A%F0%9D%95%9F%F0%9D%95%96+%F0%9D%95%A8%F0%9D%95%9A%F0%9D%95%A5%F0%9D%95%99%F0%9D%95%A0%F0%9D%95%A6%F0%9D%95%A5+%F0%9D%95%9E%F0%9D%95%96..." alt="Typing SVG" /></a>
